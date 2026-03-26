@@ -44,7 +44,9 @@ The ESP-Prog-2 uses the **[esp-usb-bridge](https://github.com/espressif/esp-usb-
 
 You can flash the ESP-Prog-2 firmware using ESP Launchpad for a convenient web-based flashing experience:
 
-**[Flash ESP-Prog-2 with ESP Launchpad](https://espressif.github.io/esp-launchpad/?flashConfigURL=https://dl.espressif.com/AE/esp-dev-kits/config_esp_prog_2.toml)**
+<a href="https://espressif.github.io/esp-launchpad/?flashConfigURL=https://espressif.github.io/esp-usb-bridge/launchpad.toml">
+    <img alt="Try it with ESP Launchpad" src="https://espressif.github.io/esp-launchpad/assets/try_with_launchpad.png" width="250" height="70">
+</a>
 
 For detailed flashing instructions including alternative methods, please refer to:
 
